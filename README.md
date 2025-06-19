@@ -48,7 +48,7 @@ Una aplicación fullstack desarrollada con Next.js, TypeScript, Tailwind CSS y F
 
 1. **Clona el repositorio**
    \`\`\`bash
-   git clone <repository-url>
+   git clone https://github.com/Alejandroclaro1227/Prueba-Full-stack-Developer-.git
    cd ticket-system
    \`\`\`
 
